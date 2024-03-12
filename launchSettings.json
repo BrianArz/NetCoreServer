@@ -5,7 +5,8 @@
       "commandVersion": "1.0",
       "serviceActions": {
         "tcpchatserver": "StartDebugging",
-        "wschatserver": "StartDebugging"
+        "wschatserver": "StartDebugging",
+        "tcpechoserver": "StartDebugging"
       }
     }
   }
